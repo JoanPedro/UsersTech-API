@@ -16,6 +16,12 @@ ao invés do default utilize: ``` ... -e POSTGRES_USER=username ```. Em que **us
 > Para setup inicial do banco de dados: 
 ``` yarn db:migrate ```
 
+## Tecnologias
+- express;
+- pg;
+- pg-hstore;
+- sequelize.
+
 ## Startup
 > ``` yarn dev ```
 
